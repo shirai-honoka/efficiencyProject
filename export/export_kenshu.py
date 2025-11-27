@@ -1,3 +1,4 @@
+#検収依頼書
 import pandas as pd
 from openpyxl import load_workbook
 from datetime import datetime

@@ -1,3 +1,4 @@
+#個人別詳細
 import pandas as pd
 from db import get_engine  # DB接続
 from openpyxl import load_workbook
